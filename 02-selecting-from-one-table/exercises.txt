@@ -35,6 +35,9 @@ WHERE production_year = 1999
 5. Select all columns for all cars with price higher than $10,000.
 */
 
+SELECT vin, brand, model, price, production_year
+FROM car
+WHERE price > 10000
 
 
 /*
