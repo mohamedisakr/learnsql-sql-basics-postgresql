@@ -7,9 +7,11 @@ FROM car
 
 
 /*
-2. 
+2. Select brand names from the car table.
 */
 
+SELECT brand
+FROM car;
 
 
 /*
