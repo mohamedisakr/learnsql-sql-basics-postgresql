@@ -1,0 +1,7 @@
+id	name
+1	Math
+2	English Literature
+3	Physics
+4	Computer Science
+5	Biology
+6	Chemistry

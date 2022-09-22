@@ -1,0 +1,6 @@
+id	name	birth_year	graduation_year
+1	Kyle Lawson	1992	2015
+2	Santiago Knox	1991	2015
+3	Arian Sheppard	1990	2013
+4	Samuel Foster	1991	2014
+5	Hayden Smith	1986	2010
