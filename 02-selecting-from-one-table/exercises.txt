@@ -15,19 +15,24 @@ FROM car;
 
 
 /*
-3. 
+3. Select model and price from the car table.
 */
 
+SELECT model, price
+FROM car;
 
 
 /*
-4. 
+4. Select all columns for those cars which were produced in 1999 (use the production_year column).
 */
 
+SELECT vin, brand, model, price, production_year
+FROM car
+WHERE production_year = 1999
 
 
 /*
-5. 
+5. Select all columns for all cars with price higher than $10,000.
 */
 
 
